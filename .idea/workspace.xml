@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6c429ea-0b9d-4198-9a41-db8fe1a25406" name="Changes" comment="Gestion d'input d'utilisateurs">
-      <change afterPath="$PROJECT_DIR$/ESGI_B2_Cours2/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ESGI_B2_Cours2/.idea/copilot.data.migration.ask2agent.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ESGI_B2_Cours2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ESGI_B2_Cours2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ESGI_B2_Cours2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ESGI_B2_Cours2/ESGI_B2_Cours2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ESGI_B2_Cours2/src/NombreMagique.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ESGI_B2_Cours2/src/SwitchExemple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ESGI_B2_Cours2/src/TestBoucles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESGI_B2_First_project/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI_B2_First_project/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="b6c429ea-0b9d-4198-9a41-db8fe1a25406" name="Changes" comment="Cours 2 - boucles et switch et jeu du nombre magique" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +58,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768311015204</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Cours 2 - boucles et switch et jeu du nombre magique">
+      <option name="closed" value="true" />
+      <created>1768319731550</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1768319731550</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -87,7 +82,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Gestion d'input d'utilisateurs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Gestion d'input d'utilisateurs" />
+    <MESSAGE value="Cours 2 - boucles et switch et jeu du nombre magique" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cours 2 - boucles et switch et jeu du nombre magique" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
